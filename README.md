@@ -4,6 +4,7 @@ Overview 🌟
 This project dives into the Pokémon Dataset, capturing the essence of Pokémon through Generation 6, to predict which ones can undergo Mega Evolution. Leveraging logistic regression and enriched by SMOTE for class balancing, we tackle the dataset's class imbalance challenge head-on.
 
 Dataset Description 📁
+
 The dataset is a treasure trove of information for 721 Pokémon, including:
 
 Basic Stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed 📈.
