@@ -26,6 +26,8 @@ Exploratory Data Analysis (EDA): Deep diving into each feature's influence on Me
 Feature Transformation: Considering logarithmic, polynomial, etc., transformations to normalize distributions 🔧.
 Statistical Testing: Utilizing t-tests and ANOVA for informed feature selection 📊.
 Conclusion and Insights 📌
+
+
 Our journey through logistic regression, feature selection, and class imbalance treatment reveals the critical role of EDA and feature engineering. Despite class imbalance challenges, our approach offered valuable insights, with room for further enhancements through identified strategies.
 
 This project embodies the iterative essence of data science, highlighting the predictive modeling challenges and opportunities within the fascinating world of Pokémon.
